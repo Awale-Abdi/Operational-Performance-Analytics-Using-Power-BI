@@ -22,7 +22,7 @@ To develop an end-to-end business intelligence project that answers the followin
 ## 📁 Project Scope
 
 - **Execution Approach**:
-  - Rapidly done two 9-5 work day schedules to demonstrate a firm command of Data Analytics & Business Reporting utilizing Power BI
+  - Rapidly done in two 9-5 work day schedules to demonstrate a firm command of Data Analytics & Business Reporting utilizing Power BI
 - **Dataset source**: NYC Yellow Taxi data (~49M records, 12 months of Parquet files)  | Link to data: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 - **Storage**: Amazon S3
 
