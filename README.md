@@ -3,7 +3,7 @@
 
 This project showcases an **end-to-end Business Intelligence workflow** built using approximately **49 million transportation records**. I developed it to demonstrate enterprise-scale data preparation, dimensional modeling, KPI development, dashboard design, and executive reporting.
 
-Although the project uses the **NYC Yellow Taxi dataset** as its case study, the Business Intelligence techniques I apply—including data transformation, dimensional modeling, KPI development, interactive dashboard design, and analytical reporting—are broadly transferable to operations, logistics, healthcare, retail, finance, manufacturing, and other data-driven organizations seeking to transform large datasets into actionable business insights.
+Although the project uses the **NYC Yellow Taxi dataset** as its case study, the Business Intelligence techniques I apply such as data transformation, dimensional modeling, KPI development, interactive dashboard design, and analytical reporting are broadly transferable to operations, logistics, healthcare, retail, finance, manufacturing, and other data-driven organizations seeking to transform large datasets into actionable business insights.
 
 Using **Amazon S3**, **Power Query**, **DAX**, and **Power BI**, I designed and delivered a complete Business Intelligence solution capable of answering strategic operational questions, improving resource allocation, monitoring business performance, and supporting executive decision-making through interactive dashboards and analytical reporting.
 
