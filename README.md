@@ -49,7 +49,7 @@ Dataset:
 
 https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
-## Data Modeling
+### Data Modeling
 
 Designed a dimensional **Star Schema** consisting of:
 
@@ -64,7 +64,7 @@ Designed a dimensional **Star Schema** consisting of:
 
 Created a dynamic **Calendar Table** using DAX to support time intelligence.
 
-## Data Engineering (Power Query)
+### Data Engineering (Power Query)
 
 Performed enterprise-style ETL by:
 
@@ -78,7 +78,7 @@ Performed enterprise-style ETL by:
 - Standardizing categorical values
 - Preparing the data model for reporting
 
-## KPI Development (DAX)
+### KPI Development (DAX)
 
 Created business KPIs including:
 
@@ -107,7 +107,7 @@ Outputs/
 
 # 📊 Operational Insights
 
-## Executive Overview
+### Executive Overview
 
 - Revenue closely follows transaction volume, indicating demand-driven performance.
 - Demand patterns remain highly predictable throughout the day.
@@ -115,7 +115,7 @@ Outputs/
 - Manhattan generates the highest concentration of revenue and demand, creating geographic concentration risk.
 - Approximately **25%** of payment records contain unknown values, highlighting a meaningful data quality concern.
 
-## Operations & Revenue Analysis
+### Operations & Revenue Analysis
 
 - Revenue aligns closely with demand, suggesting generally effective operational resource allocation.
 - Queens demonstrates higher revenue efficiency despite lower average trip distances.
@@ -123,7 +123,7 @@ Outputs/
 - A substantial proportion of activity is assigned to unknown geographic locations.
 - Payment data inconsistencies occur primarily outside core operating regions.
 
-## Performance Trends
+### Performance Trends
 
 - Revenue fluctuates more significantly than trip volume, suggesting pricing or trip composition effects.
 - Revenue recovers faster than transaction volume following declines.
@@ -131,7 +131,7 @@ Outputs/
 - Mid-year performance suggests diminishing marginal revenue per trip.
 - Overall business performance trends upward despite noticeable monthly volatility.
 
-# 📈 Executive Recommendations
+### 📈 Executive Recommendations
 
 - Improve pricing consistency to reduce revenue volatility.
 - Optimize staffing and operational resources during peak demand periods.
@@ -142,7 +142,7 @@ Outputs/
 
 # 🛠️ Technical Skills Demonstrated
 
-## Business Intelligence
+### Business Intelligence
 
 - Power BI Dashboard Development
 - KPI Design
@@ -150,7 +150,7 @@ Outputs/
 - Business Storytelling
 - Decision Support
 
-## Data Engineering
+### Data Engineering
 
 - Power Query
 - ETL
@@ -159,7 +159,7 @@ Outputs/
 - Feature Engineering
 - Large-scale Dataset Preparation
 
-## Data Modeling
+### Data Modeling
 
 - Star Schema Design
 - Fact & Dimension Modeling
@@ -167,7 +167,7 @@ Outputs/
 - Time Intelligence
 - Calendar Table Development
 
-## Analytics
+### Analytics
 
 - Operational Performance Analysis
 - Revenue Analysis
@@ -176,7 +176,7 @@ Outputs/
 - Geographic Performance Analysis
 - Data Quality Assessment
 
-## Cloud Technologies
+### Cloud Technologies
 
 - Cloud-based Data Storage via Amazon S3
 
