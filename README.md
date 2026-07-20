@@ -1,8 +1,6 @@
 <h1 align="center">Operational Performance Analytics | End-to-End Business Intelligence with Power BI</h1>
 
 
----
-
 This project demonstrates an **end-to-end Business Intelligence workflow** using approximately **49 million transportation records** to showcase enterprise-scale data preparation, dimensional modeling, KPI development, dashboard design, and executive reporting.
 
 While the project uses the **NYC Yellow Taxi dataset** as its case study, the methodologies demonstrated are broadly transferable to operations, logistics, healthcare, retail, finance, manufacturing, and other data-driven organizations seeking to transform large datasets into actionable business insights.
