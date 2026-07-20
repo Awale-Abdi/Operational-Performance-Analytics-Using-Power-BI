@@ -11,7 +11,7 @@ To challenge myself, I completed the entire project over **two standard working 
 
 # 🎯 Objective
 
-To demonstrate the ability to design and deliver a complete **Business Intelligence solution** capable of answering strategic operational questions using large-scale transactional data.
+To demonstrate the ability to rapidly and efficiently design and deliver a complete **Business Intelligence solution** capable of answering strategic operational questions using large-scale transactional data.
 
 The project simulates requests from an executive leadership team responsible for improving operational performance, resource allocation, revenue generation, and data quality.
 
@@ -178,8 +178,7 @@ Outputs/
 
 ## Cloud Technologies
 
-- Amazon S3
-- Cloud-based Data Storage
+- Cloud-based Data Storage via Amazon S3
 
 # 💡 What This Project Demonstrates
 
