@@ -1,8 +1,5 @@
 <h1 align="center">Operational Performance Analytics | End-to-End Business Intelligence with Power BI</h1>
 
-<p align="center">
-Demonstrated using the <strong>NYC Yellow Taxi Dataset (~49 million records)</strong>
-</p>
 
 ---
 
