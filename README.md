@@ -9,13 +9,13 @@ The solution integrates **Amazon S3**, **Power Query**, **DAX**, and **Power BI*
 
 To challenge myself, I completed the entire project over **two standard working days (9–5)**, demonstrating the ability to rapidly execute a complete Business Intelligence workflow from raw data ingestion through to executive-ready reporting.
 
-# 🎯 Objective
+## 🎯 Objective
 
 To demonstrate the ability to rapidly and efficiently design and deliver a complete **Business Intelligence solution** capable of answering strategic operational questions using large-scale transactional data.
 
 The project simulates requests from an executive leadership team responsible for improving operational performance, resource allocation, revenue generation, and data quality.
 
-# 💼 Executive Questions
+## 💼 Executive Questions
 
 - How are demand and revenue trending over time?
 - Is business performance driven primarily by transaction volume or revenue efficiency?
@@ -25,7 +25,7 @@ The project simulates requests from an executive leadership team responsible for
 - What customer payment behaviors are most common?
 - Are there data quality issues impacting business decisions?
 
-# 🏗️ Solution Architecture
+## 🏗️ Solution Architecture
 
 ### Business Intelligence Workflow
 
@@ -90,7 +90,7 @@ Created business KPIs including:
 - Tip Percentage
 - Executive KPI formatting
 
-# 📁 Repository Structure
+## 📁 Repository Structure
 
 ```
 Datasets/
@@ -105,7 +105,7 @@ Outputs/
     Star Schema.png
 ```
 
-# 📊 Operational Insights
+## 📊 Operational Insights
 
 ### Executive Overview
 
@@ -140,7 +140,7 @@ Outputs/
 - Improve payment and geographic data quality through stronger validation processes.
 - Develop region-specific operational strategies based on observed performance differences.
 
-# 🛠️ Technical Skills Demonstrated
+## 🛠️ Technical Skills Demonstrated
 
 ### Business Intelligence
 
@@ -180,7 +180,7 @@ Outputs/
 
 - Cloud-based Data Storage via Amazon S3
 
-# 💡 What This Project Demonstrates
+## 💡 What This Project Demonstrates
 
 This project demonstrates the ability to independently execute a complete Business Intelligence solution from raw data through executive decision support.
 
@@ -195,7 +195,7 @@ Specifically, it showcases proficiency in:
 - Communicating analytical findings through executive reporting
 - Delivering end-to-end analytics solutions under realistic project timelines
 
-# 📬 Contact
+## 📬 Contact
 
 **Email**
 
