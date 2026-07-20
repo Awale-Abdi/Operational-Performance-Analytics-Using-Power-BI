@@ -7,17 +7,13 @@ While the project uses the **NYC Yellow Taxi dataset** as its case study, the me
 
 The solution integrates **Amazon S3**, **Power Query**, **DAX**, and **Power BI** to deliver executive dashboards and a comprehensive business report designed to support operational decision-making.
 
-To challenge myself, I completed the entire project over **two standard working days (9–5)**, demonstrating the ability to rapidly execute a complete Business Intelligence solution—from raw data ingestion through executive-ready reporting.
-
----
+To challenge myself, I completed the entire project over **two standard working days (9–5)**, demonstrating the ability to rapidly execute a complete Business Intelligence workflow from raw data ingestion through to executive-ready reporting.
 
 # 🎯 Objective
 
 To demonstrate the ability to design and deliver a complete **Business Intelligence solution** capable of answering strategic operational questions using large-scale transactional data.
 
 The project simulates requests from an executive leadership team responsible for improving operational performance, resource allocation, revenue generation, and data quality.
-
----
 
 # 💼 Executive Questions
 
@@ -28,8 +24,6 @@ The project simulates requests from an executive leadership team responsible for
 - Which operational areas appear inefficient or underperforming?
 - What customer payment behaviors are most common?
 - Are there data quality issues impacting business decisions?
-
----
 
 # 🏗️ Solution Architecture
 
@@ -43,8 +37,6 @@ The project simulates requests from an executive leadership team responsible for
 - Interactive dashboard development
 - Executive reporting
 
----
-
 ## Data
 
 - **Dataset:** NYC Yellow Taxi Trips
@@ -56,8 +48,6 @@ The project simulates requests from an executive leadership team responsible for
 Dataset:
 
 https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
-
----
 
 ## Data Modeling
 
@@ -74,8 +64,6 @@ Designed a dimensional **Star Schema** consisting of:
 
 Created a dynamic **Calendar Table** using DAX to support time intelligence.
 
----
-
 ## Data Engineering (Power Query)
 
 Performed enterprise-style ETL by:
@@ -90,8 +78,6 @@ Performed enterprise-style ETL by:
 - Standardizing categorical values
 - Preparing the data model for reporting
 
----
-
 ## KPI Development (DAX)
 
 Created business KPIs including:
@@ -103,8 +89,6 @@ Created business KPIs including:
 - Average Trip Duration
 - Tip Percentage
 - Executive KPI formatting
-
----
 
 # 📁 Repository Structure
 
@@ -121,8 +105,6 @@ Outputs/
     Power BI Dashboard.pbix
 ```
 
----
-
 # 📊 Operational Insights
 
 ## Executive Overview
@@ -133,8 +115,6 @@ Outputs/
 - Manhattan generates the highest concentration of revenue and demand, creating geographic concentration risk.
 - Approximately **25%** of payment records contain unknown values, highlighting a meaningful data quality concern.
 
----
-
 ## Operations & Revenue Analysis
 
 - Revenue aligns closely with demand, suggesting generally effective operational resource allocation.
@@ -142,8 +122,6 @@ Outputs/
 - Brooklyn and the Bronx require longer trips to generate comparable revenue.
 - A substantial proportion of activity is assigned to unknown geographic locations.
 - Payment data inconsistencies occur primarily outside core operating regions.
-
----
 
 ## Performance Trends
 
@@ -153,8 +131,6 @@ Outputs/
 - Mid-year performance suggests diminishing marginal revenue per trip.
 - Overall business performance trends upward despite noticeable monthly volatility.
 
----
-
 # 📈 Executive Recommendations
 
 - Improve pricing consistency to reduce revenue volatility.
@@ -163,8 +139,6 @@ Outputs/
 - Reduce geographic concentration risk by identifying opportunities outside Manhattan.
 - Improve payment and geographic data quality through stronger validation processes.
 - Develop region-specific operational strategies based on observed performance differences.
-
----
 
 # 🛠️ Technical Skills Demonstrated
 
@@ -176,8 +150,6 @@ Outputs/
 - Business Storytelling
 - Decision Support
 
----
-
 ## Data Engineering
 
 - Power Query
@@ -187,8 +159,6 @@ Outputs/
 - Feature Engineering
 - Large-scale Dataset Preparation
 
----
-
 ## Data Modeling
 
 - Star Schema Design
@@ -196,8 +166,6 @@ Outputs/
 - DAX
 - Time Intelligence
 - Calendar Table Development
-
----
 
 ## Analytics
 
@@ -208,14 +176,10 @@ Outputs/
 - Geographic Performance Analysis
 - Data Quality Assessment
 
----
-
 ## Cloud Technologies
 
 - Amazon S3
 - Cloud-based Data Storage
-
----
 
 # 💡 What This Project Demonstrates
 
@@ -231,8 +195,6 @@ Specifically, it showcases proficiency in:
 - Identifying operational opportunities and business risks
 - Communicating analytical findings through executive reporting
 - Delivering end-to-end analytics solutions under realistic project timelines
-
----
 
 # 📬 Contact
 
