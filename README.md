@@ -182,7 +182,7 @@ Outputs/
 
 ## 💡 What This Project Demonstrates
 
-This project demonstrates the ability to independently execute a complete Business Intelligence solution from raw data through executive decision support.
+This project demonstrates the ability to independently and rapidly execute a complete Business Intelligence solution from raw data through to executive decision support.
 
 Specifically, it showcases proficiency in:
 
@@ -193,7 +193,7 @@ Specifically, it showcases proficiency in:
 - Translating large datasets into actionable business insights
 - Identifying operational opportunities and business risks
 - Communicating analytical findings through executive reporting
-- Delivering end-to-end analytics solutions under realistic project timelines
+- Delivering end-to-end analytics solutions under tight project timelines
 
 ## 📬 Contact
 
