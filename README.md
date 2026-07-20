@@ -27,7 +27,7 @@ The project simulates requests from an executive leadership team responsible for
 
 # 🏗️ Solution Architecture
 
-## Business Intelligence Workflow
+### Business Intelligence Workflow
 
 - Enterprise-scale data ingestion
 - Data transformation & cleansing
@@ -37,7 +37,7 @@ The project simulates requests from an executive leadership team responsible for
 - Interactive dashboard development
 - Executive reporting
 
-## Data
+### Data
 
 - **Dataset:** NYC Yellow Taxi Trips
 - **Size:** ~49 million records
