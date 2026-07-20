@@ -27,6 +27,8 @@ The project simulates requests from an executive leadership team responsible for
 
 # 🏗️ Solution Architecture
 
+---
+
 ## Business Intelligence Workflow
 
 - Enterprise-scale data ingestion
@@ -97,12 +99,12 @@ Datasets/
     NYC Taxi Dataset (Amazon S3)
 
 Outputs/
+    Power BI Dashboard.pbix
     Executive Report.pdf
     Dashboard 1 - Executive Overview.png
     Dashboard 2 - Operations & Revenue Analysis.png
     Dashboard 3 - Performance Trends.png
     Star Schema.png
-    Power BI Dashboard.pbix
 ```
 
 # 📊 Operational Insights
