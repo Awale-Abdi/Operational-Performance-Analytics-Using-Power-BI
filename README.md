@@ -27,8 +27,6 @@ The project simulates requests from an executive leadership team responsible for
 
 # 🏗️ Solution Architecture
 
----
-
 ## Business Intelligence Workflow
 
 - Enterprise-scale data ingestion
