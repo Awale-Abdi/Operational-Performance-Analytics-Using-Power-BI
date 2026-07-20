@@ -1,13 +1,13 @@
 <h1 align="center">Operational Performance Analytics | End-to-End Business Intelligence with Power BI</h1>
 
 
-This project demonstrates an **end-to-end Business Intelligence workflow** using approximately **49 million transportation records** to showcase enterprise-scale data preparation, dimensional modeling, KPI development, dashboard design, and executive reporting.
+This project showcases an **end-to-end Business Intelligence workflow** built using approximately **49 million transportation records**. I developed it to demonstrate enterprise-scale data preparation, dimensional modeling, KPI development, dashboard design, and executive reporting.
 
-While the project uses the **NYC Yellow Taxi dataset** as its case study, the Business Intelligence methodologies demonstrated such as data transformation, dimensional modeling, KPI development, interactive dashboard design, and analytical reporting are broadly transferable to operations, logistics, healthcare, retail, finance, manufacturing, and other data-driven organizations seeking to transform large datasets into actionable business insights.
+Although the project uses the **NYC Yellow Taxi dataset** as its case study, the Business Intelligence techniques I apply—including data transformation, dimensional modeling, KPI development, interactive dashboard design, and analytical reporting—are broadly transferable to operations, logistics, healthcare, retail, finance, manufacturing, and other data-driven organizations seeking to transform large datasets into actionable business insights.
 
-The solution integrates **Amazon S3**, **Power Query**, **DAX**, and **Power BI** to design and deliver a complete Business Intelligence solution capable of answering strategic operational questions, improving resource allocation, monitoring business performance, and supporting executive decision-making through interactive dashboards and analytical reporting.
+Using **Amazon S3**, **Power Query**, **DAX**, and **Power BI**, I designed and delivered a complete Business Intelligence solution capable of answering strategic operational questions, improving resource allocation, monitoring business performance, and supporting executive decision-making through interactive dashboards and analytical reporting.
 
-To challenge myself, I completed the entire project over **two standard working days (9–5)**, demonstrating the ability to rapidly execute an end-to-end Business Intelligence workflow from raw data ingestion through to executive-ready reporting.
+To challenge myself, I completed the entire project over **two standard working days (9–5)**, demonstrating my ability to rapidly execute an end-to-end Business Intelligence workflow from raw data ingestion through executive-ready reporting.
 
 ## 💼 Executive Questions
 
