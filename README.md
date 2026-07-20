@@ -3,19 +3,15 @@
 
 This project demonstrates an **end-to-end Business Intelligence workflow** using approximately **49 million transportation records** to showcase enterprise-scale data preparation, dimensional modeling, KPI development, dashboard design, and executive reporting.
 
-While the project uses the **NYC Yellow Taxi dataset** as its case study, the methodologies demonstrated are broadly transferable to operations, logistics, healthcare, retail, finance, manufacturing, and other data-driven organizations seeking to transform large datasets into actionable business insights.
+While the project uses the **NYC Yellow Taxi dataset** as its case study, the Business Intelligence methodologies demonstrated such as data transformation, dimensional modeling, KPI development, interactive dashboard design, and analytical reporting are broadly transferable to operations, logistics, healthcare, retail, finance, manufacturing, and other data-driven organizations seeking to transform large datasets into actionable business insights.
 
-The solution integrates **Amazon S3**, **Power Query**, **DAX**, and **Power BI** to deliver executive dashboards and a comprehensive business report designed to support operational decision-making.
+The solution integrates **Amazon S3**, **Power Query**, **DAX**, and **Power BI** to design and deliver a complete Business Intelligence solution capable of answering strategic operational questions, improving resource allocation, monitoring business performance, and supporting executive decision-making through interactive dashboards and analytical reporting.
 
-To challenge myself, I completed the entire project over **two standard working days (9–5)**, demonstrating the ability to rapidly execute a complete Business Intelligence workflow from raw data ingestion through to executive-ready reporting.
-
-## 🎯 Objective
-
-To demonstrate the ability to rapidly and efficiently design and deliver a complete **Business Intelligence solution** capable of answering strategic operational questions using large-scale transactional data.
-
-The project simulates requests from an executive leadership team responsible for improving operational performance, resource allocation, revenue generation, and data quality.
+To challenge myself, I completed the entire project over **two standard working days (9–5)**, demonstrating the ability to rapidly execute an end-to-end Business Intelligence workflow from raw data ingestion through to executive-ready reporting.
 
 ## 💼 Executive Questions
+
+The project simulates requests from an executive leadership team responsible for improving operational performance, resource allocation, revenue generation, and data quality:
 
 - How are demand and revenue trending over time?
 - Is business performance driven primarily by transaction volume or revenue efficiency?
